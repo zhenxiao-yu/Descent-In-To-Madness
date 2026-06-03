@@ -2,6 +2,8 @@
 
 # Descent into Madness
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A 2D top-down pixel-art roguelike shooter built in Unity. Fight through five levels of procedurally generated dungeons, manage your ammo and sanity, and clear each boss room to descend deeper. Built as a university group game-development project and published as a playable WebGL demo (v1.0.2).
 
 > Status: prototype / demo. It is feature-rich and playable end to end, but it is a student project and not a finished commercial release.
@@ -114,7 +116,7 @@ A University of Western Ontario group project:
 
 ## License
 
-The original source code in this repository is released under the [MIT License](LICENSE). Copyright (c) 2024 Mark Yu (ZhenXiao Yu).
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Mark Yu (ZhenXiao Yu).
 
 ### Assets
 
